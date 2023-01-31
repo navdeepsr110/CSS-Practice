@@ -1,0 +1,13 @@
+p{
+    color: blue;
+}
+.color-red{
+    color:pink;
+}
+#para-id{
+    color:green;
+}
+
+#blog-title:hover{
+    color: sandybrown;
+}

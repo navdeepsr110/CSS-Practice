@@ -1,0 +1,20 @@
+p{
+    color: orange;
+    font-size: 20px;
+}
+/* h1{
+    font-size: 40px;
+}
+h4{
+    font-size: 30px;
+} */
+
+.uppercase{
+    text-transform: uppercase;
+}
+.cursive{
+  font-family: cursive;
+}
+#blog-desc{
+    color: rgb(55, 24, 164);
+}
