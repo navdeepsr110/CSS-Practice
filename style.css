@@ -1,57 +1,36 @@
-p{
-    color: orange;
-    font-size: 20px;
-}
-/* h1{
-    font-size: 40px;
-}
-h4{
-    font-size: 30px;
-} */
-
-.uppercase{
-    text-transform: uppercase;
-}
-.cursive{
-  font-family: cursive;
-}
-#blog-desc{
-    color: rgb(55, 24, 164);
+/*-----header-----*/
+#main-header {
+    height: 400px;
 }
 
-main{
-    width: 100%;
-    display: inline-block;
-}
-
-
-/* Aside Section */
-
-aside{
-    display: inline-block;
-    width: 21%;
-}
-
-.widget{
-    border-top: 4px solid black;
-}
-
-.widget input{
-    display: block;
-    background-color: #F7F7F7;
-    margin-bottom: 15px;
-    padding: 4px;
+#site-title a {
+    font-size: 28px;
     color: black;
-    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: sans-serif;
 }
 
-button[type="submit"]{
-    font-size: 1.2rem;
-    background-color: black;
-    color: white;
-    padding: 10px;
+#site-title a:hover {
+    color: orange;
 }
 
-.widget-title{
-    font-size: 1.5rem;
+#about-site {
+    color: grey;
+}
+
+
+
+/*-----main-----*/
+h1 {
+    font-size: 40px;
+    color: darkslategrey;
+    font-family: sans-serif;
+}
+
+#blog-content {
+    width: 1000px;
+}
+
+.h-style {
+    color: darkslategrey;
 }
